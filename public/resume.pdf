@@ -1,0 +1,171 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+>>
+>>
+>>
+endobj
+
+4 0 obj
+<<
+/Length 4500
+>>
+stream
+BT
+/F1 24 Tf
+50 750 Td
+(UDAY KUMAR V) Tj
+0 -25 Td
+/F2 14 Tf
+(Full-Stack Developer | ML Enthusiast) Tj
+0 -20 Td
+/F2 12 Tf
+(Email: udaykumar@example.com | Phone: +91 12345 67890) Tj
+0 -40 Td
+
+/F1 16 Tf
+(EDUCATION) Tj
+0 -20 Td
+/F2 12 Tf
+(HKBK College of Engineering, Bangalore) Tj
+0 -15 Td
+(Bachelor of Engineering in Information Science and Engineering) Tj
+0 -15 Td
+(2021 - 2025 | CGPA: 8.06 / 10) Tj
+0 -15 Td
+(Relevant Coursework: Data Structures, Computer Networks, DBMS, Operating Systems, Python, MongoDB, AngularJS) Tj
+
+0 -30 Td
+/F1 16 Tf
+(TECHNICAL SKILLS) Tj
+0 -20 Td
+/F2 12 Tf
+(• Artificial Intelligence & Machine Learning: Supervised and unsupervised learning, linear and logistic) Tj
+0 -12 Td
+(  regression, decision trees, support vector machines, K-nearest neighbors, clustering, neural networks,) Tj
+0 -12 Td
+(  model evaluation, scikit-learn, TensorFlow, Keras) Tj
+0 -15 Td
+(• Data Science & Analytics: Data cleaning, data wrangling, exploratory data analysis, statistical analysis,) Tj
+0 -12 Td
+(  hypothesis testing, feature engineering, data visualization \(Matplotlib, Seaborn, Plotly\), correlation) Tj
+0 -12 Td
+(  analysis, A/B testing, metrics and key performance indicators \(KPIs\)) Tj
+0 -15 Td
+(• Data Analytics Tools: Microsoft Excel \(formulas, pivot tables, charts, data validation\), Google Sheets,) Tj
+0 -12 Td
+(  Power BI, Tableau) Tj
+0 -15 Td
+(• Programming Languages: Python, R, Java \(basic\), Shell scripting) Tj
+0 -15 Td
+(• Software Development: Object-oriented programming, version control \(Git, GitHub\), REST APIs,) Tj
+0 -12 Td
+(  debugging, modular design, software development life cycle \(SDLC\)) Tj
+0 -15 Td
+(• Web Technologies: HTML, CSS, JavaScript \(basic\)) Tj
+0 -15 Td
+(• Database Management: SQL, MySQL, database design, ER diagrams, CRUD operations, DBMS concepts) Tj
+0 -15 Td
+(• Software Testing: Manual testing, test case writing, bug tracking, black-box testing, basics of Selenium, JUnit) Tj
+0 -15 Td
+(• Cloud Platforms & Hosting: Google Drive API, Colab Pro, AWS EC2, AWS S3 \(basic\)) Tj
+0 -15 Td
+(• Development & Productivity Tools: VS Code, Jupyter Notebook, Google Colab, Eclipse, PyCharm, Postman) Tj
+
+0 -30 Td
+/F1 16 Tf
+(ACHIEVEMENTS) Tj
+0 -20 Td
+/F2 12 Tf
+(• 2nd Place in Inter-Department Web Designing Competition - Received cash prize) Tj
+0 -15 Td
+(• Final Year Project funded by Karnataka State Council for Science and Technology \(KSCST\)) Tj
+
+0 -30 Td
+/F1 16 Tf
+(PUBLICATIONS) Tj
+0 -20 Td
+/F2 12 Tf
+(• The Progression of ChatGPT: An Evolutionary Study from GPT-1 to GPT-4,) Tj
+0 -12 Td
+(  MAT Journals Pvt. Ltd., Volume 3, Issue 3, 2024) Tj
+0 -15 Td
+(• Presented research paper "AI-Powered Virtual Assistant Enhanced Productivity") Tj
+0 -12 Td
+(  at NCIT-2025, organized by ISTE and HKBK College of Engineering, Bengaluru, April 11-12, 2025) Tj
+
+0 -30 Td
+/F1 16 Tf
+(PROJECTS) Tj
+0 -20 Td
+/F2 12 Tf
+(• AI-Powered Virtual Assistant for Task Automation) Tj
+0 -15 Td
+(• Stock Market Analysis and Price Prediction) Tj
+0 -15 Td
+(• Online Attendance Management System) Tj
+0 -15 Td
+(• Web Scraping of Flipkart Product Data) Tj
+0 -15 Td
+(• Portfolio Management and Financial Analysis Tool) Tj
+
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+endobj
+
+6 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000074 00000 n 
+0000000120 00000 n 
+0000000284 00000 n 
+0000004836 00000 n 
+0000004919 00000 n 
+trailer
+<<
+/Size 7
+/Root 1 0 R
+>>
+startxref
+4996
+%%EOF
